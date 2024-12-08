@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 💻I’m currently studying on Computer Science discipline.
+- 💻 I’m currently studying on Computer Science discipline.
 - 🌱 I’m currently learning cybersecurity & machine learning fields.
 - 😄 Pronouns: he/him
 
