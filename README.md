@@ -5,3 +5,6 @@
 - 😄 Pronouns: he/him
 - ☕︎ Programming Languages: Java(mostly used), JavaScript, Python, C#, C++
 
+
+![demo](https://github.com/defnotRM/user-attachments/chibi-d8f899ee91f66ee4-x4-turn.gif)
+
