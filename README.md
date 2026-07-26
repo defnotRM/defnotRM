@@ -1,13 +1,34 @@
+<div align="center">
+  <img width="116" height="132" alt="chibi-d8f899ee91f66ee4-x4-cheer" src="https://github.com/user-attachments/assets/c731f566-3dc6-4d70-9276-7ffe4f38a493" />
+  <h1>Hi I'm defnotRM 👋</h1>
+  <img width="96" height="128" alt="chibi-d8f899ee91f66ee4-x4-clap" src="https://github.com/user-attachments/assets/d12b2176-123e-46b0-a4f0-bf785f12fd85" />
 
-<img width="116" height="132" alt="chibi-d8f899ee91f66ee4-x4-cheer" src="https://github.com/user-attachments/assets/9f60e093-d832-4b9b-8c5c-7a71f2c11233" />
-## Hi I'm defnotRM 👋
-<img width="96" height="128" alt="chibi-d8f899ee91f66ee4-x4-turn" src="https://github.com/user-attachments/assets/6e79c3ae-cbb5-4c31-bd92-ed02360422f5" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=28&pause=1000&color=F2C978&center=true&vCenter=true&width=600&lines=Mobile+Android+Applications;Minecraft+plugins%2Fmods)](https://git.io/typing-svg)
+</div>
 
-- 💻 I’m currently studying Computer Science discipline at KMITL.
-- 🌱 I’m currently learning Cyber Security, Machine Learning, Software Development, and Web Development.
+
+
+### 👨‍💻 About Me
+- 💻 Coding Android apps, Minecraft plugins/mods & Roblox scripting .
+- 🌱 Lifelong learner, always eager to try something new :).
 - 😄 Pronouns: he/him
-- ☕︎ Programming Languages: Java(mostly used), JavaScript, Python, C#, C++
+- 📜 Languages & Tools: Java, Luau, Kotlin, Python, JavaScript
 
+<hr/>
 
+### 🛠️ My Skills
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,androidstudio,java,kotlin,gradle,maven,robloxstudio,lua,linux,docker,mysql,postgres" alt="My Skills" />
+</a>
+
+<hr/>
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=defnotRM&show_icons=true&bg_color=00000000&&title_color=EED9D5&icon_color=EED9D5&border_color=CFCACA" alt="defnotRM's GitHub stats" />
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=4&theme=transparent">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=defnotRM&layout=donut&langs_count=4&theme=transparent&title_color=EED9D5&text_color=EED9D5&icon_color=EED9D5&border_color=CFCACA" alt="GitHub Stats" />
+  </a>
+</div>
 
 
