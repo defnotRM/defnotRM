@@ -9,7 +9,7 @@
 
 
 ### 👨‍💻 About Me
-- 💻 Coding Android apps, Minecraft plugins/mods & Roblox scripting .
+- 💻 Coding Android apps, Minecraft plugins/mods & Roblox scripting.
 - 🌱 Lifelong learner, always eager to try something new :).
 - 😄 Pronouns: he/him
 - 📜 Languages & Tools: Java, Luau, Kotlin, Python, JavaScript
